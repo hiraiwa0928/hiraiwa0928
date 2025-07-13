@@ -34,7 +34,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=hiraiwa0928&count_private=true&show_icons=true&theme=onedark" />
 </p>
 <p align="center">
-  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=hiraiwa0928&theme=onedark&column=7" />
+  <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=hiraiwa0928&theme=onedark&column=" />
 </p>
 <p align="center">
   <img alt="github-chart" src="https://github-chart.vercel.app/api?user=hiraiwa0928&theme=onedark" />
